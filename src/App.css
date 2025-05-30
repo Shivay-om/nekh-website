@@ -6,6 +6,10 @@
   font-style: normal;
 }
 
+body {
+    font-family: "Adamina", serif;
+}
+
 .title {
     margin: 40px 20px 40px 20px;
 }

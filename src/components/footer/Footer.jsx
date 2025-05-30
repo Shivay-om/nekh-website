@@ -17,8 +17,8 @@ const Footer = () => {
                 </div>
 
                 {/* Right Side */}
-                <div className="mt-10 md:pr-10 md:mt-0 md:w-[30%] space-y-4 text-[#444] text-sm ">
-                    <div className="space-y-1">
+                <div className="mt-10 md:pr-10 md:mt-0 md:w-[30%] space-y-4 text-[#444]">
+                    <div className="space-y-1 text-xl">
                         <p>Work</p>
                         <p>About</p>
                         <p>Services</p>
